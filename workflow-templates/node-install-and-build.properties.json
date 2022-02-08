@@ -1,5 +1,14 @@
 {
     "name": "Deploy JavaScript app",
     "description": "Deploy JavaScript hello world.",
-    "iconName": "example-icon"
+    "iconName": "tib-logo",
+    "categories": [
+        "JavaScript,Deployment"
+    ],
+    "filePatterns": [
+        ".*\\.js$",
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
 }
