@@ -1,9 +1,9 @@
 {
-    "name": "TypeScript talk",
-    "description": "TypeScript hello world.",
+    "name": "JavaScript talk",
+    "description": "JavaScript hello world.",
     "iconName": "example-icon",
     "categories": [
-        "TypeScript"
+        "JavaScript"
     ],
     "filePatterns": [
         "package.json$",
