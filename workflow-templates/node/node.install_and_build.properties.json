@@ -1,0 +1,13 @@
+{
+    "name": "TypeScript talk",
+    "description": "TypeScript hello world.",
+    "iconName": "example-icon",
+    "categories": [
+        "TypeScript"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
