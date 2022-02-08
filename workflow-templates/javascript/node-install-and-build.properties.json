@@ -1,8 +1,5 @@
 {
     "name": "Deploy JavaScript app",
     "description": "Deploy JavaScript hello world.",
-    "iconName": "tib-logo",
-    "categories": [
-        "JavaScript","TypeScript"
-    ]
+    "iconName": "tib-logo"
 }
