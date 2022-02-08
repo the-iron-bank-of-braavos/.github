@@ -4,11 +4,5 @@
     "iconName": "tib-logo",
     "categories": [
         "JavaScript,Deployment"
-    ],
-    "filePatterns": [
-        ".*\\.js$",
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
     ]
 }
