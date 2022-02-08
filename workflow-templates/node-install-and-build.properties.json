@@ -3,6 +3,6 @@
     "description": "Deploy JavaScript hello world.",
     "iconName": "tib-logo",
     "categories": [
-        "JavaScript","TypeScript","Deployment"
+        "JavaScript","TypeScript"
     ]
 }
