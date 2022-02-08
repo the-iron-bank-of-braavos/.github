@@ -1,13 +1,5 @@
 {
     "name": "Deploy JavaScript app",
     "description": "Deploy JavaScript hello world.",
-    "iconName": "example-icon",
-    "categories": [
-        "JavaScript"
-    ],
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
-    ]
+    "iconName": "example-icon"
 }
